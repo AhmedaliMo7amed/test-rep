@@ -1,0 +1,25 @@
+# Laravel-specific
+/.env
+/vendor
+/node_modules
+/public
+/public
+/storage
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+
+# IDE-specific
+/.idea
+*.iml
+*.ipr
+*.iws
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Laravel Forge
+/.forge
+/.vscode
